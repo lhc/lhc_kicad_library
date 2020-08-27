@@ -1,1 +1,4 @@
-# lhc_kicad_library
+# LHC KiCad Library
+
+
+Logos and footprints
